@@ -2781,14 +2781,14 @@
 		.button:hover,
 		.button:active {
 			box-shadow: inset 0 0 0 1px #3c7ad1;
-			color: #3c7ad1 !important;
+			color: #09306d !important;
 		}
 
 		input[type="submit"]:active,
 		input[type="reset"]:active,
 		input[type="button"]:active,
 		.button:active {
-			background-color:#3c7ad1;
+			background-color:#09306d;
 		}
 
 		input[type="submit"].icon:before,
