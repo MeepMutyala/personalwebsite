@@ -1,0 +1,167 @@
+﻿
+element.style {
+}
+core.css:26
+html body {
+    background: none;
+}
+core.css:26
+body, p {
+    font-family: HK Grotesk,Helvetica Neue,Helvetica,sans-serif;
+}
+core.css:26
+body, html {
+    width: 100%;
+    height: 100%;
+    position: relative;
+}
+core.css:9
+body {
+    font-family: Helvetica Neue,Helvetica,Arial,sans-serif;
+    font-size: 14px;
+    line-height: 1.42857;
+    color: #333;
+    background-color: #fff;
+}
+core.css:7
+body {
+    margin: 0;
+}
+core.css:26
+* {
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    box-sizing: border-box;
+}
+core.css:9
+*, :after, :before {
+    box-sizing: border-box;
+}
+user agent stylesheet
+body {
+    display: block;
+    margin: 8px;
+}
+Inherited from html.dark
+core.css:9
+html {
+    font-size: 10px;
+    -webkit-tap-highlight-color: transparent;
+}
+core.css:7
+html {
+    font-family: sans-serif;
+    -ms-text-size-adjust: 100%;
+    -webkit-text-size-adjust: 100%;
+}
+core.css:26
+* {
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    box-sizing: border-box;
+}
+Pseudo ::before element
+core.css:9
+*, :after, :before {
+    box-sizing: border-box;
+}
+Pseudo ::after element
+core.css:9
+*, :after, :before {
+    box-sizing: border-box;
+}
+Pseudo ::selection element
+core.css:26
+::selection {
+    background: #fff;
+    color: #000;
+}
+position0
+0margin‒
+‒border‒
+‒padding‒
+‒807.333 × 590‒
+‒‒
+‒‒
+‒0
+0
+
+Filter
+
+Show all
+background-attachment:
+scroll
+;
+background-clip:
+border-box
+;
+background-color:
+rgba(0, 0, 0, 0)
+;
+background-image:
+none
+;
+background-origin:
+padding-box
+;
+background-position-x:
+0%
+;
+background-position-y:
+0%
+;
+background-repeat-x:
+;
+background-repeat-y:
+;
+background-size:
+auto
+;
+box-sizing:
+border-box
+;
+color:
+rgb(51, 51, 51)
+;
+display:
+block
+;
+font-family:
+"HK Grotesk", "Helvetica Neue", Helvetica, sans-serif
+;
+font-size:
+14px
+;
+height:
+590px
+;
+line-height:
+20px
+;
+margin-bottom:
+0px
+;
+margin-left:
+0px
+;
+margin-right:
+0px
+;
+margin-top:
+0px
+;
+position:
+relative
+;
+text-size-adjust:
+100%
+;
+width:
+807.333px
+;
+-webkit-font-smoothing:
+antialiased
+;
+-webkit-tap-highlight-color:
+rgba(0, 0, 0, 0)
+;
