@@ -1,0 +1,142 @@
+﻿<!DOCTYPE HTML>
+<!--
+    Landed by HTML5 UP
+    html5up.net | @ajlkn
+    Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+<head>
+    <title>Apu Mutyala | Official Site</title>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <!--[if lte IE 8]><script src="assets/js/ie/html5shiv.js"></script><![endif]-->
+    <link rel="stylesheet" href="../assets/css/main.css" />
+    <!--[if lte IE 9]><link rel="stylesheet" href="assets/css/ie9.css" /><![endif]-->
+    <!--[if lte IE 8]><link rel="stylesheet" href="assets/css/ie8.css" /><![endif]-->
+</head>
+<body class="landing">
+    <div id="page-wrapper">
+
+        <!-- Header -->
+        <header id="header">
+            <h1 id="logo"><a href="http://www.apumutyala.com/"><bigp><bold><bluetext><sitetextmargin>Apu Mutyala | Official Site</sitetextmargin></bluetext></bold></bigp></a></h1>
+            <nav id="nav">
+                <ul>
+                    <li><a href="http://www.apumutyala.com/">Home</a></li>
+                    <li><a href="../aboutme.html">About Me</a></li>
+                    <li>
+                        <a href="../portfoliopage.html">Portfolio</a>
+                        <ul>
+                            <li>
+                                <a href="../portfolio.html">Photography</a>
+                                <ul>
+                                    <li><a href="../portfolios/portraits.html">Portraits</a></li>
+                                    <li><a href="../portfolios/cityphotography.html">City Photography</a></li>
+                                </ul>
+                            </li>
+                        </ul>
+                    </li>
+                    <li><a href="../blog.html">Blog</a></li>
+                    <li>
+                        <a href="../tsaresources.html">TSA</a>
+                        <ul>
+                            <li><a href="../whatistsa.html">What is TSA?</a></li>
+                            <li><a href="../tsaexp.html">My TSA Experience</a></li>
+                            <li><a href="../howtostartachapter.html">How To Start a Chapter</a></li>
+                            <li><a href="../promotingyourchapter.html">Chapter Resources and Tips</a></li>
+                        </ul>
+                    </li>
+                    <li><a href="mailto:apumutyala@gmail.com" class="button special">Contact</a></li>
+                </ul>
+            </nav>
+        </header>
+        <!-- Main -->
+        <div id="main" class="wrapper style1">
+            <div class="container">
+                <header class="major">
+                    <br>
+                    <br>
+                    <h2>Here's To 2018.</h2>
+                </header>
+                <!-- Content -->
+                <section id="content">
+			<center><img src="../images/flctsastateofficers.jpg" height="500" alt="" /></center>
+			<br>
+                    <blogpost> <a href="blogs/flcleadershippost.html"><h1>A Reflection on Leadership/The Fall Leadership Conference!</h1></a>
+                    <br>
+                   	<p>With 2018 beginning, I’ve thought a lot about this past year.</p>
+	
+                  	<p>I, just like anyone else, had my good times and... “not so good” times. But the good outweighs the not so good.</p> 
+                    
+                    <p>From the start of 2017 to the end I can tell that I’ve changed positively. I really followed the passions of 
+                    mine that I didn’t explore as deeply as I wanted to, from photography to leadership to even coding and programming. 
+                    I developed this sense of motivation that I didn’t find in myself before very early in the year, and I found that 
+                    it improved my productivity, personal development, and outlook. I became healthier both physically and mentally. 
+                    My perspective has definitely changed in many ways. </p> 
+                  	<p>I’ve met many new people and made many new friends, and each has had some level of impact on me, whether 
+                    someone taught me skills in specific fields or simply helped me relax in times of stress. </p>
+	                  <p>And of course, I’ve also seen my fair share of darker days. But these also still had an impact on me, and 
+                    I’ve learned plenty of lessons through mistakes and experiences. They also helped shape me, so I wouldn’t have 
+                    it any other way.</p>
+                  	<p>I don’t know if 2018 will “be my year.”</p> 
+                  	<p>But I do know that I am ready to make the most of it.</p>
+                  	<p>So you may be wondering why I’m writing this post. I want to encourage you to reflect on your past year and 
+                    think about how much you’ve developed. Then think about what you need to work on to satisfy your expectations of 
+                    yourself, to be the best you that you can be.</p>
+                    <p>I’m not talking about something like a New Year’s Resolution, (nobody sticks to them anyways) but think about 
+                    what can you do to really improve your outlook on your life, and overall your experience in this past year. 
+                    And try to meet that personal expectation of yourself to make the most of 2018.</p>
+                    <p>It’s a strange feeling, looking out into that crowd of students and saying those words. It wasn’t my first time 
+                    though. The fact that I am impacting an organization with so many students amazes me. It really is an honor to do
+                    so.</p>
+                    <p>We all have things we plan on getting to but never do. The goals you set but never work towards. Impossible 
+                    projects that seem like a distant dream. Start working towards them, and those dreams will become clearer and 
+                    clearer as you work. Your ideas will come to fruition. All it takes is motivation to get you there. </p>
+                    <p>I’ll leave you with this. Reflect. What can you do to make the most out of this next year?</p>
+                    <p>Who knows? 2018 might be your year.</p>
+                    <p>
+                    Thanks for reading,<br>
+                    -Apu Mutyala.
+                    </p>
+                    
+                    
+                    </blogpost>
+                    </div>
+                    </div>
+                    
+                    <p>
+                    
+                    </p>
+
+                </section>
+                <div class="4u$ 12u$(medium)">
+                </div>
+            </div>
+        </div>
+    </div>
+        <!-- Footer -->
+        <footer id="footer">
+
+            <ul class="icons">
+                <center>
+                    <li><a href="https://twitter.com/Apum_Official" class="icon alt fa-twitter"><span class="label">Twitter</span></a></li>
+                    <li><a href="https://www.instagram.com/apu_mutyala/" class="icon alt fa-instagram"><span class="label">Instagram</span></a></li>
+                    <li><a href="mailto:apumutyala@gmail.com" class="icon alt fa-envelope"><span class="label">Email</span></a></li>
+                </center>
+                <li>&copy; Apu Mutyala. All rights reserved. Content all owned by Apuroop Mutyala unless otherwise stated.</li>
+            </ul>
+        </footer>
+    </div>
+
+    <!-- Scripts -->
+    <script src="assets/js/jquery.min.js"></script>
+    <script src="assets/js/jquery.scrolly.min.js"></script>
+    <script src="assets/js/jquery.dropotron.min.js"></script>
+    <script src="assets/js/jquery.scrollex.min.js"></script>
+    <script src="assets/js/skel.min.js"></script>
+    <script src="assets/js/util.js"></script>
+    <!--[if lte IE 8]><script src="assets/js/ie/respond.min.js"></script><![endif]-->
+    <script src="assets/js/main.js"></script>
+
+</body>
+</html>
